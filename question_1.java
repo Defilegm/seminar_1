@@ -29,9 +29,6 @@ public class question_1 {
         result = n*(n+1)/2;
         return result;
     }
-    // 2.2 Вывод треугольниого числа
-    public static void  print(int n,int obj){
-        System.out.printf("Треугольное число %d: %d", n,obj);
-    }
+  
     
 }
